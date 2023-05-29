@@ -1,0 +1,11 @@
+
+.FruitsMaster div {
+    border-radius: 1em;
+}
+
+.FruitsMaster div.FruitsContainer {
+    border-radius: 1em;
+    border: 2px solid lightgray;
+    padding: 0.5em;
+}
+

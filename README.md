@@ -1,5 +1,3 @@
-*
-
 Projet réalisé par Elif TEPE et Emmanuela PLAISIVAL
 
 étudiantes en M1 Sciences Cognitives
@@ -18,4 +16,3 @@ Voici la structure de notre projet avec le dossier node_module :
   - package-lock.json
   - README
 
-*

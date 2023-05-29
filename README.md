@@ -1,9 +1,9 @@
 *
 
-Projet réalisé par Elif TEPE
+Projet réalisé par Elif TEPE et Emmanuela PLAISIVAL
 
-étudiante en M1 Sciences Cognitives
+étudiantes en M1 Sciences Cognitives
 
-numéro étudiant : 31708282
+
 
 *
